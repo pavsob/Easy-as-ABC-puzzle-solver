@@ -8,4 +8,4 @@ In the first and second part the program is capable of checking the correctness 
 In the third part the program encodes the problem into propositional logic, and then use the LogicNG library to use a SAT solver to solve the puzzles.
 The SAT solver library can be accessed here: https://github.com/logic-ng/LogicNG
 
-To run particular part navigate to the src folder in the command window and write java main <TEST> <test-set> where action type and specification are arguments.
+To run particular part navigate to the src folder in the command window and write java main \<TEST\> \<test-set\> where action type and specification are arguments.
